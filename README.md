@@ -1,5 +1,5 @@
 # ecoplug-outdoor-alexa
-The outdoor version of the ecoplug. THe Eco Plugs RC-028W Outdoor Wi-Fi Controlled 2 Outlets version.
+The outdoor version of the esp 8266 based ecoplug wifi outlet. THe Eco Plugs RC-028W Outdoor Wi-Fi Controlled 2 Outlets version.
 
 https://www.google.com/shopping/product/11157828304980995404?q=ecoplug+wifi&newwindow=1&biw=2321&bih=1191&sa=X&ved=0ahUKEwjTyLSyo-3WAhUpllQKHandBSEQ8wII3QEwAA
 
